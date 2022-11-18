@@ -30,4 +30,4 @@
 
 - [테이블매니저](http://www.tablemanager.io/) 프론트엔드 개발 **2021.06 ~ 2022.04**
 
-- [휴먼스케이프](https://humanscape.io/kr/recruit.html) 프론트엔드 개발 **2022.05 ~ 재직 중**
+- [휴먼스케이프](https://humanscape.io/kr/recruit.html) 프론트엔드 개발 **2022.05 ~ 2022.11**
