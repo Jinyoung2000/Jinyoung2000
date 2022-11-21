@@ -4,7 +4,6 @@
 
 - 가천대학교 컴퓨터공학과 3학년 1학기 과정 이수(휴학)
 - 산업기능요원 복무 중
-- [휴먼스케이프](https://humanscape.io/kr/recruit.html) 프론트엔드 개발자
 
 # Skills I've used
 <div>
