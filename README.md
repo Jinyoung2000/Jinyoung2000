@@ -3,7 +3,6 @@
 # About Me
 
 - 가천대학교 컴퓨터공학과 3학년 1학기 과정 이수(휴학)
-- 산업기능요원
 
 # Skills I've used
 <div>
