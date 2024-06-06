@@ -1,9 +1,5 @@
 모든 유저들이 불편함 없이 편리하게 사용할 수 있는 웹 서비스를 개발하기 위해서 노력하고 있어요.
 
-# About Me
-
-- 가천대학교 컴퓨터공학과 3학년 2학기 재학
-
 # Skills I've used
 <div>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
