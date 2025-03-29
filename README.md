@@ -15,10 +15,6 @@
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Angular" src ="https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=Angular&logoColor=white"/>
-  <img alt="AngularJS" src ="https://img.shields.io/badge/AngularJS-E23237.svg?&style=for-the-badge&logo=AngularJS&logoColor=white"/>
-  <img alt="Electron" src ="https://img.shields.io/badge/Electron-47848F.svg?&style=for-the-badge&logo=Electron&logoColor=white"/>
 </div>
 
 # Career
